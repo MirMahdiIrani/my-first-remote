@@ -1,0 +1,4 @@
+name: milad
+major: COMPUTER
+Favorite lan : C
+favorite : yazaroz.got
